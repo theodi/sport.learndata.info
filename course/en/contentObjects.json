@@ -16,26 +16,23 @@
     "body": "<p>Understanding open data is the first step to using it. This module looks at what open data is, and why it it is needed in&nbsp;the physical activity sector.</p>\n",
     "displayTitle": "1. Open data in the physical activity sector",
     "title": "1. Open data in the physical activity sector",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Define open data",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Define open data"
         },
         {
-          "outcome": "Explain the need for open data in the physical activity sector",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Explain the need for open data in the physical activity sector"
         }
       ]
-    },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
-    },
-    "_trackingHub": {
-      "_pageID": ""
     }
   },
   {
@@ -55,26 +52,23 @@
     "body": "<p>Physical activity providers can use open data to get more people involved, create better experiences for participants and run their organisations more efficiently.&nbsp;This module looks how the public sector, businesses and individuals are creating impact with open data.</p>",
     "displayTitle": "2. Creating impact from open data",
     "title": "2. Creating impact from open data",
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
-    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Describe the benefits of working with open data",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Describe the benefits of working with open data"
         },
         {
-          "outcome": "Describe successful case studies of using and publishing open data",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Describe successful case studies of using and publishing open data"
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": ""
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     }
   },
   {
@@ -94,26 +88,23 @@
     "body": "<p>Prioritising which data to publish openly can be&nbsp;difficult. This module looks at how to prioritise which physical activity&nbsp;data to publish for the biggest impact.</p>",
     "displayTitle": "3. Prioritising data to publish openly",
     "title": "3. Prioritising data to publish openly",
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
-    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Name ‘identifying shared goals’ as the key factor to consider when prioritising which data to publish",
+          "level": "strategist",
           "credits": 5,
-          "level": "strategist"
+          "outcome": "Name ‘identifying shared goals’ as the key factor to consider when prioritising which data to publish"
         },
         {
-          "outcome": "Explain why opportunity data should be a priority to publish in the physical activities sector",
+          "level": "strategist",
           "credits": 5,
-          "level": "strategist"
+          "outcome": "Explain why opportunity data should be a priority to publish in the physical activities sector"
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": ""
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     }
   },
   {
@@ -133,31 +124,28 @@
     "body": "<p>Publishing open physical activity data can bring you a wide range of benefits. But for you and your users to enjoy those benefits, your data needs to be of a good enough quality&nbsp;to use. This module looks at what quality data is&nbsp;and provides some simple checks&nbsp;to minimise problems.</p>",
     "displayTitle": "4. How to make your data useful",
     "title": "4. How to make your data useful",
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
-    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Define the benefits of quality open data",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Define the benefits of quality open data"
         },
         {
-          "outcome": "Describe two guidelines for open data quality",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Describe two guidelines for open data quality"
         },
         {
-          "outcome": "Clean a dataset",
+          "level": "practitioner",
           "credits": 10,
-          "level": "practitioner"
+          "outcome": "Clean a dataset"
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": ""
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     }
   },
   {
@@ -177,15 +165,12 @@
     "body": "<p>In previous modules we&#39;ve looked at what open means generally - we&#39;ll now look in more detail about different degrees of openness, what these mean for the potential future of different types of data, and the journey to get there.</p>",
     "displayTitle": "5. The potential futures of physical activity data",
     "title": "5. The potential futures of physical activity data",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
     "_skillsFramework": {
       "_skills": []
-    },
-    "_trackingHub": {
-      "_pageID": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
     }
   },
   {
@@ -205,15 +190,12 @@
     "body": "<p>One of the big questions that results from opening up data is &quot;What will happen to those operating in the sector and how will their businesses be affected?&quot;. This module looks at how the current market and the impact an open future will have on business models within the physical activity sector.</p>",
     "displayTitle": "6. Business in an open data led physical activity sector",
     "title": "6. Business in an open data led physical activity sector",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
     "_skillsFramework": {
       "_skills": []
-    },
-    "_trackingHub": {
-      "_pageID": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
     }
   }
 ]

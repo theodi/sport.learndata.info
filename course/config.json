@@ -65,27 +65,6 @@
       }
     ]
   },
-  "_trackingHub": {
-    "_channels": [
-      {
-        "_isStateSource": true,
-        "_saveStateIsEnabled": true,
-        "_transport": {
-          "_auth": {
-            "_password": "",
-            "_username": ""
-          },
-          "_endpoint": "https://lms2.learndata.info/api/v2/",
-          "_handlerName": "ODILRSStorageTransportHandler"
-        },
-        "_msgComposerName": "learnifyMessageComposer",
-        "_isEnabled": true,
-        "_name": "ODI LRS"
-      }
-    ],
-    "_courseID": "https://www.openactive.io/learn/",
-    "_isEnabled": false
-  },
   "build": {
     "includes": [
       "adapt-theme-se",
@@ -95,7 +74,6 @@
       "adapt-contrib-tutor",
       "adapt-skillsFramework",
       "adapt-odi-licence",
-      "adapt-trackingHub",
       "adapt-contrib-graphic",
       "adapt-contrib-text",
       "adapt-contrib-mcq",
