@@ -162,15 +162,44 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p>In previous modules we&#39;ve looked at what open means generally - we&#39;ll now look in more detail about different degrees of openness, what these mean for the potential future of different types of data, and the journey to get there.</p>",
+    "body": "<p>In previous modules we&#39;ve looked at what open means. In this module we will explore different degrees of openness, what the future looks like and the journey to get there.</p>",
     "displayTitle": "5. The potential futures of physical activity data",
     "title": "5. The potential futures of physical activity data",
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
-    },
     "_skillsFramework": {
-      "_skills": []
+      "_skills": [
+        {
+          "outcome": "List the three data futures",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "List a number of datasets that fit in each future",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Match physical activity data to the appropriate future",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Explain the process for choosing a data future",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Address challenges related to an open data future",
+          "credits": 5,
+          "level": "strategist"
+        }
+      ]
+    },
+    "_trackingHub": {
+      "_pageID": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     }
   },
   {
