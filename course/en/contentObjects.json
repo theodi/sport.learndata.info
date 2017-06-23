@@ -13,13 +13,9 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p>Understanding open data is the first step to using it. This module looks at what open data is, and why it it is needed in&nbsp;the physical activity sector.</p>\n",
+    "body": "<p>Understanding open data is the first step to using it. This module looks at what open data is, and why it it is needed in&nbsp;the physical activity sector.</p>",
     "displayTitle": "1. Open data in the physical activity sector",
     "title": "1. Open data in the physical activity sector",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -33,6 +29,10 @@
           "outcome": "Explain the need for open data in the physical activity sector"
         }
       ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     }
   },
   {
@@ -194,8 +194,30 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": ""
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/677d7326397675056792ef0a6e45ff881c10f712.jpg"
+    },
+    "_id": "594a4e5ad084d5167a04ffb6",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>One of the big questions that results from opening up data is &quot;What will happen to those operating in the sector and how will their businesses be affected?&quot;. This module looks at how the current market and the impact an open future will have on businesses&nbsp;within the physical activity sector.</p>",
+    "displayTitle": "6. Business in an open data led physical activity sector",
+    "title": "6. Business in an open data led physical activity sector",
+    "_skillsFramework": {
+      "_skills": []
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
@@ -215,16 +237,16 @@
     "_lockedBy": [],
     "duration": "",
     "linkText": "View",
-    "_classes": "",
+    "_classes": "hidden",
     "body": "<p>One of the big questions that results from opening up data is &quot;What will happen to those operating in the sector and how will their businesses be affected?&quot;. This module looks at how the current market and the impact an open future will have on business models within the physical activity sector.</p>",
-    "displayTitle": "6. Business in an open data led physical activity sector",
-    "title": "6. Business in an open data led physical activity sector",
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
-    },
+    "displayTitle": "6OLD. Business in an open data led physical activity sector",
+    "title": "6OLD. Business in an open data led physical activity sector",
     "_skillsFramework": {
       "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     }
   }
 ]

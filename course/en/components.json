@@ -63,29 +63,6 @@
     "instruction": ""
   },
   {
-    "_id": "58493b374d7b7e82691e4dd2",
-    "_layout": "right",
-    "_parentId": "58493b274d7b7e82691e4dd0",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
-      "small": "course/en/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "584939424d7b7e82691e4dc9",
     "_layout": "left",
     "_parentId": "584928ca4d7b7e82691e4bd8",
@@ -175,98 +152,6 @@
       "_isEnabled": true
     },
     "instruction": ""
-  },
-  {
-    "_id": "584928ca4d7b7e82691e4bf7",
-    "_layout": "right",
-    "_parentId": "584928ca4d7b7e82691e4bd8",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "color-nine",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/34825f6bf6f9b89bc11be4a226a05985050c81ee.png",
-      "small": "course/en/assets/34825f6bf6f9b89bc11be4a226a05985050c81ee.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "584928ca4d7b7e82691e4c0c",
-    "_layout": "left",
-    "_parentId": "584928ca4d7b7e82691e4bdb",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
-      "small": "course/en/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "584928ce4d7b7e82691e4c78",
-    "_layout": "right",
-    "_parentId": "584928ce4d7b7e82691e4c2e",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "white",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/acf5fafa193ef4bb8815fd24cea76dc89bd93701.png",
-      "small": "course/en/assets/acf5fafa193ef4bb8815fd24cea76dc89bd93701.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "584928cf4d7b7e82691e4ce2",
-    "_layout": "left",
-    "_parentId": "584928ce4d7b7e82691e4c37",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "white",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
-      "small": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
-      "attribution": ""
-    }
   },
   {
     "_id": "584928f24d7b7e82691e4cff",
@@ -461,29 +346,6 @@
       "alt": "",
       "large": "course/en/assets/7a60285b6b24a9a072771eb1b039c037a3b49ead.png",
       "small": "course/en/assets/7a60285b6b24a9a072771eb1b039c037a3b49ead.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "58493b124d7b7e82691e4dce",
-    "_layout": "left",
-    "_parentId": "58493b084d7b7e82691e4dcd",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "color-nine",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/34825f6bf6f9b89bc11be4a226a05985050c81ee.png",
-      "small": "course/en/assets/34825f6bf6f9b89bc11be4a226a05985050c81ee.png",
       "attribution": ""
     }
   },
@@ -963,55 +825,6 @@
     "instruction": ""
   },
   {
-    "_id": "581c789f4d7b7e82691e40ad",
-    "_layout": "full",
-    "_parentId": "581c78504d7b7e82691e409e",
-    "_type": "component",
-    "body": "<p>Without data we can&rsquo;t build information, and without information there is no new knowledge.</p>",
-    "displayTitle": "From raw material to new information and knowledge",
-    "title": "From raw material to new information and knowledge",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "narrative",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click the forward arrow to see more.",
-    "mobileInstruction": "",
-    "_hasNavigationInTextArea": false,
-    "_setCompletionOn": "allItems",
-    "_items": [
-      {
-        "title": "Data",
-        "body": "<p>Data is the raw material from which information and knowledge can be derived.</p><p>Think of data as those locations, images, descriptions, reviews and prices that form the basis of information that can help you plan a holiday, for example.</p>",
-        "_graphic": {
-          "src": "course/en/assets/ded96d5854bb8d6e2afb6e601a66238c545703b7.jpg",
-          "alt": ""
-        },
-        "strapline": "Data"
-      },
-      {
-        "title": "Information",
-        "body": "<p>Data becomes information when it is given context.</p><p>Following on from the previous example, locations, images, descriptions and prices can all help provide information related to a tourist attraction.</p><p>The collection and presentation of data helps to form information.</p>",
-        "_graphic": {
-          "src": "course/en/assets/8b10a4fbd6879db59bbb5defc637cf344b88eabf.jpg",
-          "alt": ""
-        },
-        "strapline": "Information"
-      },
-      {
-        "title": "Knowledge",
-        "body": "<p>Knowledge is what is derived from information, and personalised for your needs.</p><p>Building knowledge is a process of turning information into choices.</p><p>Building on the previous example, knowing that no one in your family likes theme parks will help you to decide which places to avoid on holiday, and which would suit your family better.</p>",
-        "_graphic": {
-          "src": "course/en/assets/ec7529be2f11d06ce25c6646a724e104cf2ff910.jpg",
-          "alt": ""
-        },
-        "strapline": "Knowledge"
-      }
-    ]
-  },
-  {
     "_id": "581c78b24d7b7e82691e40ae",
     "_layout": "left",
     "_parentId": "581c78514d7b7e82691e409f",
@@ -1057,29 +870,6 @@
       }
     ],
     "_shouldCollapseItems": true
-  },
-  {
-    "_id": "581c78b64d7b7e82691e40af",
-    "_layout": "right",
-    "_parentId": "581c78514d7b7e82691e409f",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "white",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/6ab98b5ebf05188c63a217fa1728fa3b3ee19f3d.png",
-      "small": "course/en/assets/6ab98b5ebf05188c63a217fa1728fa3b3ee19f3d.png",
-      "attribution": ""
-    }
   },
   {
     "_id": "581c79004d7b7e82691e40b5",
@@ -1316,75 +1106,6 @@
     }
   },
   {
-    "_id": "581c79314d7b7e82691e40c2",
-    "_layout": "right",
-    "_parentId": "581c79314d7b7e82691e40c0",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/6ab98b5ebf05188c63a217fa1728fa3b3ee19f3d.png",
-      "small": "course/en/assets/6ab98b5ebf05188c63a217fa1728fa3b3ee19f3d.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "581c79004d7b7e82691e40b6",
-    "_layout": "right",
-    "_parentId": "581c79004d7b7e82691e40b4",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "matchblock",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
-      "small": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "581c79144d7b7e82691e40ba",
-    "_layout": "left",
-    "_parentId": "581c79144d7b7e82691e40b8",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
-      "small": "course/en/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "581c794a4d7b7e82691e40c4",
     "_layout": "right",
     "_parentId": "581c785b4d7b7e82691e40a6",
@@ -1455,52 +1176,6 @@
     "_shouldCollapseItems": true
   },
   {
-    "_id": "58356f954d7b7e82691e46c6",
-    "_layout": "left",
-    "_parentId": "581c78534d7b7e82691e40a0",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/d7edbae9473f8716288c68ec603eaed28481808a.png",
-      "small": "course/en/assets/d7edbae9473f8716288c68ec603eaed28481808a.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "581c791f4d7b7e82691e40bd",
-    "_layout": "left",
-    "_parentId": "581c791f4d7b7e82691e40bc",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "white",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/d7edbae9473f8716288c68ec603eaed28481808a.png",
-      "small": "course/en/assets/d7edbae9473f8716288c68ec603eaed28481808a.png",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "58385d154d7b7e82691e478a",
     "_layout": "right",
     "_parentId": "58385cfd4d7b7e82691e4788",
@@ -1520,29 +1195,6 @@
       "alt": "",
       "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
       "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "581c78854d7b7e82691e40ac",
-    "_layout": "left",
-    "_parentId": "581c78854d7b7e82691e40aa",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "white",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
-      "small": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
       "attribution": ""
     }
   },
@@ -1594,121 +1246,6 @@
     "_shouldCollapseItems": true
   },
   {
-    "_id": "584928ce4d7b7e82691e4c8f",
-    "_layout": "right",
-    "_parentId": "584928ce4d7b7e82691e4c30",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "white",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
-      "small": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "584928ce4d7b7e82691e4c9b",
-    "_layout": "right",
-    "_parentId": "584928ce4d7b7e82691e4c31",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "   ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "color-six",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/6ff8a4063ef1ee22d903a5db21adb55e9b0549ac.png",
-      "small": "course/en/assets/6ff8a4063ef1ee22d903a5db21adb55e9b0549ac.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "584928f24d7b7e82691e4d00",
-    "_layout": "left",
-    "_parentId": "584928f24d7b7e82691e4cf4",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "color-ten",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/ef6c8121b41c85410905208e9319bfd4b58d7224.png",
-      "small": "course/en/assets/ef6c8121b41c85410905208e9319bfd4b58d7224.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "584928f24d7b7e82691e4d16",
-    "_layout": "right",
-    "_parentId": "584928f24d7b7e82691e4cf5",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/f36385e52b7136dbc69376e83cc9ed1269ff798e.png",
-      "small": "course/en/assets/f36385e52b7136dbc69376e83cc9ed1269ff798e.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "584928f24d7b7e82691e4d2a",
-    "_layout": "right",
-    "_parentId": "584928f24d7b7e82691e4cf6",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "color-nine",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/d553a6fe306f6ca45946370dd8abe4f7372f610e.png",
-      "small": "course/en/assets/d553a6fe306f6ca45946370dd8abe4f7372f610e.png",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "584928f24d7b7e82691e4d3e",
     "_layout": "right",
     "_parentId": "584928f24d7b7e82691e4cf7",
@@ -1732,29 +1269,6 @@
     }
   },
   {
-    "_id": "584928f24d7b7e82691e4d4a",
-    "_layout": "left",
-    "_parentId": "584928f24d7b7e82691e4cf8",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "color-nine",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/d553a6fe306f6ca45946370dd8abe4f7372f610e.png",
-      "small": "course/en/assets/d553a6fe306f6ca45946370dd8abe4f7372f610e.png",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "584928f24d7b7e82691e4d64",
     "_layout": "right",
     "_parentId": "584928f24d7b7e82691e4cfb",
@@ -1774,29 +1288,6 @@
       "alt": "",
       "large": "course/en/assets/91eff25a3381ba2fa069f0c8e3093f2119e741dc.png",
       "small": "course/en/assets/91eff25a3381ba2fa069f0c8e3093f2119e741dc.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "584928f24d7b7e82691e4d75",
-    "_layout": "left",
-    "_parentId": "584928f24d7b7e82691e4cfc",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "white",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/f36385e52b7136dbc69376e83cc9ed1269ff798e.png",
-      "small": "course/en/assets/f36385e52b7136dbc69376e83cc9ed1269ff798e.png",
       "attribution": ""
     }
   },
@@ -2607,29 +2098,6 @@
     "_shouldCollapseItems": true
   },
   {
-    "_id": "584928ce4d7b7e82691e4c84",
-    "_layout": "left",
-    "_parentId": "584928ce4d7b7e82691e4c2f",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "What types of data are opportunity data?",
-    "title": "What types of data are opportunity data?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "color-three",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/6ff8a4063ef1ee22d903a5db21adb55e9b0549ac.png",
-      "small": "course/en/assets/6ff8a4063ef1ee22d903a5db21adb55e9b0549ac.png",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "58821dddb61c46e176e7e647",
     "_layout": "left",
     "_parentId": "584928ce4d7b7e82691e4c34",
@@ -2797,64 +2265,6 @@
     "instruction": ""
   },
   {
-    "_id": "584928f24d7b7e82691e4d5a",
-    "_layout": "full",
-    "_parentId": "584928f24d7b7e82691e4cf9",
-    "_type": "component",
-    "body": "<p>Data quality is important. But&nbsp;understanding what quality data means&nbsp;to your audience is also important, as we&#39;ve outlined in <a href=\"http://theodi.org/blog/four-things-you-should-know-about-open-data-quality\">this article</a>.</p><p>To help you understand the quality of your data, there are some basic things you should consider. Not all of these are straightforward and some might require you to check with your technical team or your booking system provider. However, answering them will give you a clear picture of whether your data meets quality standards. Browse the categories below to learn about the key questions you need to ask.</p>",
-    "displayTitle": "Where can I get help to make sure my data is good quality?",
-    "title": "Where can I get help to make sure my data is good quality?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "matchblock",
-    "_component": "narrative",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click the forward arrow to see more.",
-    "mobileInstruction": "",
-    "_hasNavigationInTextArea": false,
-    "_setCompletionOn": "allItems",
-    "_items": [
-      {
-        "title": "Legal requirements",
-        "body": "<p>Legal requirements</p><p>Open data must be released under an open licence. Find out more about licensing <a href=\"http://accelerate.theodi.org/en/module4/#/id/co-01\">in this module.</a></p><p>In addition to the open licence,&nbsp;there are three legal requirements that need to be considered. You must:</p><ul><li>Protect sensitive information like personal data.</li><li>Preserve the rights of data owners.</li><li>Promote correct use of the data.</li></ul>",
-        "_graphic": {
-          "src": "course/en/assets/4c16023cfb73e5b28757444d7d21515c96de1998.png",
-          "alt": "CC License"
-        },
-        "strapline": "Legal"
-      },
-      {
-        "title": "Practical requirements",
-        "body": "<p>It is important that open data can be found and relied upon by users.<br />\n<br />\nThis means that open data publishers must:</p>\n\n<ul>\n\t<li>Link to the data from their website, rather than just publishing information in PDFs.</li>\n\t<li>Update the data regularly if it changes.</li>\n\t<li>Commit to continue to make the data openly available.</li>\n</ul>\n",
-        "_graphic": {
-          "src": "course/en/assets/385bfb3f40afe3cafb5e9439bdee83b5537c32ad.png",
-          "alt": ""
-        },
-        "strapline": "Page"
-      },
-      {
-        "title": "Technical requirements",
-        "body": "<p>There are three recommendations that define the technical aspects of open data:</p><ul><li>The channels through which the data is available.</li><li>The format in which the data is published.</li><li>The structure of the data.</li></ul><p>Putting any sort of data on a website is a good start, as this is the best channel.</p><p>Putting that data out there as text in a PDF is not a very useable format (you can find out more about data formats in <a href=\"http://accelerate.theodi.org/en/module9/#/id/co-01\">this eLearning module</a>).&nbsp;</p><p>Structuring the data inside a&nbsp;spreadsheet (Excel or equivalent) and linking&nbsp;this spreadsheet from&nbsp;the website is better.</p>",
-        "_graphic": {
-          "src": "course/en/assets/7f10fa9ab7f75c941335b3fd99bc178eb880ed7d.png",
-          "alt": ""
-        },
-        "strapline": "Page"
-      },
-      {
-        "title": "Social requirements",
-        "body": "<p>For data use to be sustainable, it is important to have an engaged community of users. The best datasets have:</p>\n\n<ul>\n\t<li>Active support channels.</li>\n\t<li>Discussion groups and forums.</li>\n\t<li>Published how-to guides on working with the data.</li>\n</ul>\n",
-        "_graphic": {
-          "src": "course/en/assets/ecc29cb1588c4f76a0bcf5e2f706110c960c328a.jpg",
-          "alt": ""
-        },
-        "strapline": "page"
-      }
-    ]
-  },
-  {
     "_id": "58d17f3fd084d5167a04ba05",
     "_layout": "right",
     "_parentId": "58d17f04d084d5167a04ba03",
@@ -2896,7 +2306,7 @@
     "_items": [
       {
         "title": "Open data",
-        "body": "Open data is data that anyone can access, use and share. Governments and organisations have opened up access to data such as weather records, earthquake monitoring, and even particle physics, allowing others to use this data and discover new solutions for the benefit of all.",
+        "body": "<p>Open data is data that anyone can access, use and share. Governments and organisations have opened up access to data such as weather records, earthquake monitoring, and even particle physics, allowing others to use this data and discover new solutions for the benefit of all.</p><p>Find out more about <a href=\"#/id/581c76824d7b7e82691e408b\">open data and the physical activity sector.</a></p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -2906,7 +2316,7 @@
       },
       {
         "title": "Shared data",
-        "body": "<p>Shared data is data that is shared with a&nbsp;shared with a specific group of people, for a specific purpose. It is a broad term that covers a huge amount of the data that is collected everyday. Your supermarket shopping habits and the electoral register are just two examples of shared data.</p>",
+        "body": "<p>Shared data is data that is shared&nbsp;with a specific group of people, for a specific purpose. It is a broad term that covers a huge amount of the data that is collected everyday. Your supermarket shopping habits and the electoral register are just two examples of shared data.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3271,7 +2681,7 @@
     "_layout": "left",
     "_parentId": "58dcec45d084d5167a04c1c2",
     "_type": "component",
-    "body": "<p>There are three futures for data,&nbsp;<strong>open</strong>, <strong>shared</strong>&nbsp;and&nbsp;<strong>closed.&nbsp;</strong></p><p>When working with data it is important to consider the appropriate level of openness, taking into consideration both the type of the data as well as potential impact.&nbsp;</p><p>While some data,&nbsp;including personal data should be closed, there is also a huge opportunity for open data to provide both direct and in-direct benefits.&nbsp;</p><p>In the physical activity sector, opening up opportunity data has the potential to increase numbers participating in activities.</p><p>There are challenges to be overcome still, one of the main ones being the change to existing business models. The <a href=\"#/id/58d542f3d084d5167a04c072\">next module</a> looks at these challenges in more detail, along with potential solutions.</p><p><a class=\"button\" href=\"#/id/584928f24d7b7e82691e4cf1\">Previous module</a> <a class=\"button\" href=\"#/id/58d542f3d084d5167a04c072\">Next module</a></p>",
+    "body": "<p>There are three futures for data,&nbsp;<strong>open</strong>, <strong>shared</strong>&nbsp;and&nbsp;<strong>closed.&nbsp;</strong></p><p>When working with data it is important to consider the appropriate level of openness, taking into consideration both the type of the data as well as potential impact.&nbsp;</p><p>While some data,&nbsp;including personal data should be closed, there is also a huge opportunity for open data to provide both direct and indirect benefits.&nbsp;</p><p>In the physical activity sector, opening up opportunity data has the potential to increase numbers participating in activities.</p><p>There are challenges to be overcome still, one of the main ones being the change to existing business models. The <a href=\"#/id/594a4e5ad084d5167a04ffb6\">next module</a> looks at these challenges in more detail, along with potential solutions.</p><p><a class=\"button\" href=\"#/id/584928f24d7b7e82691e4cf1\">Previous module</a> <a class=\"button\" href=\"#/id/594a4e5ad084d5167a04ffb6\">Next module</a></p>",
     "displayTitle": "The potential futures of physical activity data",
     "title": "Summary",
     "_isAvailable": true,
@@ -3301,53 +2711,18 @@
     "instruction": ""
   },
   {
-    "_id": "5849376a4d7b7e82691e4dc5",
-    "_layout": "full",
-    "_parentId": "584937584d7b7e82691e4dc4",
+    "_id": "594a4e5bd084d5167a050069",
+    "_layout": "left",
+    "_parentId": "594a4e5ad084d5167a04ffc0",
     "_type": "component",
-    "body": "<p>The public sector benefits from open data initiatives in many ways:</p>",
-    "displayTitle": "Opportunities for the public sector",
-    "title": "Opportunities for the public sector",
+    "body": "",
+    "displayTitle": "Are you ready to lead in an open ecosystem?",
+    "title": "Are you ready to lead in an open ecosystem?",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
-    "_component": "narrative",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click the forward arrow to see more.",
-    "mobileInstruction": "",
-    "_hasNavigationInTextArea": false,
-    "_setCompletionOn": "allItems",
-    "_items": [
-      {
-        "title": "Supporting growing economies",
-        "body": "<p>To help&nbsp;new data-driven businesses to develop and&nbsp;existing ones to grow, the public sector&nbsp;needs to publish key datasets.</p><p>It also needs to support data infrastructure that connects data with those who use it.</p><p>In return, the public sector can reap&nbsp;the benefits of a growing data economy. For example,&nbsp;in Finland, SMEs with access to open data grew 15% faster than those without.</p><p><a href=\"https://web.archive.org/web/20140531085827/http://www.epsiplatform.eu/content/finnish-study-psi-pricing-geo-data\" target=\"_blank\">Take me to the Finnish case study</a></p>",
-        "_graphic": {
-          "src": "course/en/assets/041ed58c20dfcf8e818b6210565db5aa47afc803.png",
-          "alt": ""
-        },
-        "strapline": "money"
-      },
-      {
-        "title": "Improved service delivery",
-        "body": "<p>Making detailed open data available is essential to improving&nbsp;service delivery&nbsp;for businesses and individuals.</p><p>The <a href=\"https://defradigital.blog.gov.uk/2016/04/21/environment-agency-going-above-and-beyond/\">Environment Agency</a> released 1,500 datasets, driven by its&nbsp;initiative&nbsp;#opendefra.</p><p>As part of this, the open&nbsp;<a href=\"https://environmentagency.blog.gov.uk/2015/09/18/laser-surveys-light-up-open-data/\">LIDAR</a>&nbsp;(Light Detection and Ranging) data has helped&nbsp;<a href=\"http://surreydigitalservices.github.io/blog/2016/03/QGIS-Rooftop-Aspect-Analysis\">optimise&nbsp;rooftop solar-cell installation</a>. Open flood data made it possible for&nbsp;<a href=\"http://www.redcross.org.uk/What-we-do/Emergency-response/Emergency-app\">The Red Cross</a>&nbsp;to build an app combining it with&nbsp;Met Office weather warnings to issue real-time alerts.</p><p>In the transport sector, Transport for London, released their travel data and enabled developers to provide consumer-friendly services, helping&nbsp;customers to <a href=\"https://www.google.co.uk/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=10&amp;ved=0ahUKEwiBjIzA_ZTSAhUB7hoKHaGXD5QQFghSMAk&amp;url=http%3A%2F%2Fresearchbriefings.files.parliament.uk%2Fdocuments%2FPOST-PN-472%2FPOST-PN-472.pdf&amp;usg=AFQjCNG8RkGO-SLEc2Fgg_KR-Hezh80h0Q&amp;cad=rja\">save an estimated &pound;58m worth&nbsp;of saved time per year</a>&nbsp;(pdf).</p>",
-        "_graphic": {
-          "src": "course/en/assets/c0eca1e9dde2d00c75333a3690c8ba35d98c1d3c.jpg",
-          "alt": ""
-        },
-        "strapline": "services"
-      },
-      {
-        "title": "Efficiency savings",
-        "body": "<p>By releasing open data on its public transport, the city of San Francisco has reduced its number of incoming telephone queries by around 22%, which has <a href=\"http://www.resetsanfrancisco.org/better-government/opendata-and-real-time-information-saves-san-francisco-over-1-million/\">generated annual savings of more than $1m</a>.</p><p>The startup Prescribing Analytics &ndash; a joint venture between NHS doctors and technologists &ndash; used open data to identify a <a href=\"https://theodi.org/news/prescription-savings-worth-millions-identified-odi-incubated-company\">&pound;200m per year saving</a> for the NHS if they were to switch to own-brand statins and utilise more efficient delivery routes.</p>",
-        "_graphic": {
-          "src": "course/en/assets/a504270596bccd50c7606befecc8b926320b60a8.png",
-          "alt": ""
-        },
-        "strapline": "plan"
-      }
-    ]
+    "_component": "text",
+    "instruction": ""
   },
   {
     "_id": "58d18797d084d5167a04ba17",
@@ -3461,7 +2836,7 @@
       },
       {
         "title": "Shared",
-        "body": "<p>In a shared data future, data is released to a specific group of people. Sometimes data is shared for a specific purpose only.</p><p>Sharing&nbsp;medical records and research with specific companies is critical to help&nbsp;improve healthcare. However, this data is still very sensitive and in most cases cannot be shared widely.</p><p>Data sharing has the advantage of allowing a slightly wider group of people to use and benefit from it, whilst also retaining some control and limiting usage required of sensitive data. &nbsp;</p>",
+        "body": "<p>In a shared data future, data is released to a specific group of people. Sometimes data is shared for a specific purpose only.</p><p>Sharing&nbsp;medical records and research with specific companies is critical to help&nbsp;improve healthcare. However, this data is often quite&nbsp;sensitive and in most cases cannot be shared widely.</p><p>Data sharing has the advantage of allowing a slightly wider group of people to use and benefit from the data, whilst also retaining some control and limiting the use of sensitive data. &nbsp;</p>",
         "_graphic": {
           "src": "course/en/assets/4f3e720f0df8c5e9e8980551e0e4f1b499568325.jpg",
           "alt": "",
@@ -3471,7 +2846,7 @@
       },
       {
         "title": "Closed",
-        "body": "<p>A closed data future is one where data remains locked away in individual organisations. Sometimes only a handful of named individuals will have access to the data.</p><p>Examples of this include national security data, confidential business secrets, or your employment record with human resources.</p><p>Closed data is necessary to protect the&nbsp;rights of individuals and&nbsp;the intellectual capital of organisations.</p><p>However, not all data needs to be closed. It can be useful to look at data from a different angle, to justify why it should be closed, instead of justifying why it should be open. This approach is called &#39;open by default.&#39;</p>",
+        "body": "<p>A closed data future is one where data remains secure in individual organisations. Sometimes only a handful of named individuals will have access to the data.</p><p>Examples of this include national security data, confidential business secrets, or your employment record with human resources.</p><p>Closed data is necessary to protect the&nbsp;rights of individuals and&nbsp;the intellectual capital of organisations.</p><p>However, not all data needs to be closed. It can be useful to look at data from a different angle, to justify why it should be closed, instead of justifying why it should be open. This approach is called &#39;open by default.&#39;</p>",
         "_graphic": {
           "src": "course/en/assets/f476f3f4c685b49d3767079ce18a539ee8bbb892.jpg",
           "alt": "",
@@ -3808,7 +3183,7 @@
     "_layout": "left",
     "_parentId": "58d17f04d084d5167a04ba03",
     "_type": "component",
-    "body": "<p>Not all data is open data, and nor should it be.&nbsp;When working with data, it is important to consider the appropriate level of openness for that data.</p><p>In this module we&#39;ll learn about three different futures for data&nbsp;- closed, shared and open. We&#39;ll explore what each of these mean and how they apply to&nbsp;physical activity data. We&#39;ll also look at how to classify your data and the overcoming challenges of making data more open.</p><p>This module introduces:&nbsp;</p><ul><li>Open, shared and closed data futures</li><li>Why we need three data futures</li><li>Choosing a future for physical activity data</li><li>The process of choosing a data future</li><li>Challenges of achieving an open future</li></ul>",
+    "body": "<p>Not all data is open data, and nor should it be.&nbsp;When working with data, it is important to consider the appropriate level of openness for that data.</p><p>In this module we&#39;ll learn about three different futures for data&nbsp;- closed, shared and open. We&#39;ll explore what each of these mean and how they apply to&nbsp;physical activity data. We&#39;ll also look at how to classify your data and the challenges of making data more open.</p><p>This module introduces:&nbsp;</p><ul><li>Open, shared and closed data</li><li>Why we need three data futures</li><li>Choosing a future for physical activity data</li><li>The process of choosing a data future</li><li>Challenges of achieving an open future</li></ul>",
     "displayTitle": "The potential futures of physical activity data",
     "title": "The potential futures of physical activity data",
     "_isAvailable": true,
@@ -3975,7 +3350,7 @@
         ]
       },
       {
-        "text": "Participation in a dance class",
+        "text": "Attendees in a dance class",
         "_options": [
           {
             "text": "Open",
@@ -3993,7 +3368,7 @@
       }
     ],
     "_feedback": {
-      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Yoga instructors&rsquo; home addresses should most likely be closed, participation in a dance class may be shared, and table tennis table locations would be valuable open data.</p>",
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Yoga instructors&rsquo; home addresses should most likely be closed, attendees&nbsp;in a dance class may be shared, and table tennis table locations would be valuable open data.</p>",
       "_incorrect": {
         "final": "<p><strong>Are you sure about that?</strong></p><p>Yoga instructors&rsquo; home addresses should most likely be closed, participation in a dance class may be shared, and table tennis table locations would be valuable open data.</p>",
         "notFinal": ""
@@ -4180,7 +3555,7 @@
     "instruction": "",
     "_items": [
       {
-        "text": "Advocacy of the benefits, increasing data literacy and top down support",
+        "text": "Advocating the benefits, increasing data literacy and top down support",
         "_shouldBeSelected": true,
         "feedback": ""
       },
@@ -4492,5 +3867,1505 @@
       "_isEnabled": true
     },
     "instruction": ""
+  },
+  {
+    "_id": "581c78854d7b7e82691e40ac",
+    "_layout": "left",
+    "_parentId": "581c78854d7b7e82691e40aa",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "white",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
+      "small": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty - Freepik.com </a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "581c789f4d7b7e82691e40ad",
+    "_layout": "full",
+    "_parentId": "581c78504d7b7e82691e409e",
+    "_type": "component",
+    "body": "<p>Without data we can&rsquo;t build information, and without information there is no new knowledge.</p>",
+    "displayTitle": "From raw material to new information and knowledge",
+    "title": "From raw material to new information and knowledge",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Data",
+        "body": "<p>Data is the raw material from which information and knowledge can be derived.</p><p>Think of data as those locations, images, descriptions, reviews and prices that form the basis of information that can help you plan a holiday, for example.</p>",
+        "_graphic": {
+          "src": "course/en/assets/ded96d5854bb8d6e2afb6e601a66238c545703b7.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366\" target=\"_blank\">Anna Frajtova</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Data"
+      },
+      {
+        "title": "Information",
+        "body": "<p>Data becomes information when it is given context.</p><p>Following on from the previous example, locations, images, descriptions and prices can all help provide information related to a tourist attraction.</p><p>The collection and presentation of data helps to form information.</p>",
+        "_graphic": {
+          "src": "course/en/assets/8b10a4fbd6879db59bbb5defc637cf344b88eabf.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/travel-flat-vector-background-217763944?src=lb-35924366\" target=\"_blank\">Sachezi </a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Information"
+      },
+      {
+        "title": "Knowledge",
+        "body": "<p>Knowledge is what is derived from information, and personalised for your needs.</p><p>Building knowledge is a process of turning information into choices.</p><p>Building on the previous example, knowing that no one in your family likes theme parks will help you to decide which places to avoid on holiday, and which would suit your family better.</p>",
+        "_graphic": {
+          "src": "course/en/assets/ec7529be2f11d06ce25c6646a724e104cf2ff910.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366\" target=\"_blank\">Oleksiy Mark </a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Knowledge"
+      }
+    ]
+  },
+  {
+    "_id": "581c78b64d7b7e82691e40af",
+    "_layout": "right",
+    "_parentId": "581c78514d7b7e82691e409f",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "white",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6ab98b5ebf05188c63a217fa1728fa3b3ee19f3d.png",
+      "small": "course/en/assets/6ab98b5ebf05188c63a217fa1728fa3b3ee19f3d.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business Transparent image\" target=\"_blank\">Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "58356f954d7b7e82691e46c6",
+    "_layout": "left",
+    "_parentId": "581c78534d7b7e82691e40a0",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d7edbae9473f8716288c68ec603eaed28481808a.png",
+      "small": "course/en/assets/d7edbae9473f8716288c68ec603eaed28481808a.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "581c79144d7b7e82691e40ba",
+    "_layout": "left",
+    "_parentId": "581c79144d7b7e82691e40b8",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
+      "small": "course/en/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366\" target=\"_blank\">Oleksiy Mark </a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "581c79314d7b7e82691e40c2",
+    "_layout": "right",
+    "_parentId": "581c79314d7b7e82691e40c0",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6ab98b5ebf05188c63a217fa1728fa3b3ee19f3d.png",
+      "small": "course/en/assets/6ab98b5ebf05188c63a217fa1728fa3b3ee19f3d.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business Transparent image\" target=\"_blank\">Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "581c791f4d7b7e82691e40bd",
+    "_layout": "left",
+    "_parentId": "581c791f4d7b7e82691e40bc",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "white",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d7edbae9473f8716288c68ec603eaed28481808a.png",
+      "small": "course/en/assets/d7edbae9473f8716288c68ec603eaed28481808a.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "581c79004d7b7e82691e40b6",
+    "_layout": "right",
+    "_parentId": "581c79004d7b7e82691e40b4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "matchblock",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
+      "small": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty - Freepik.com </a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5849376a4d7b7e82691e4dc5",
+    "_layout": "full",
+    "_parentId": "584937584d7b7e82691e4dc4",
+    "_type": "component",
+    "body": "<p>The public sector benefits from open data initiatives in many ways:</p>",
+    "displayTitle": "Opportunities for the public sector",
+    "title": "Opportunities for the public sector",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Supporting growing economies",
+        "body": "<p>To help&nbsp;new data-driven businesses to develop and&nbsp;existing ones to grow, the public sector&nbsp;needs to publish key datasets.</p><p>It also needs to support data infrastructure that connects data with those who use it.</p><p>In return, the public sector can reap&nbsp;the benefits of a growing data economy. For example,&nbsp;in Finland, SMEs with access to open data grew 15% faster than those without.</p><p><a href=\"https://web.archive.org/web/20140531085827/http://www.epsiplatform.eu/content/finnish-study-psi-pricing-geo-data\" target=\"_blank\">Take me to the Finnish case study</a></p>",
+        "_graphic": {
+          "src": "course/en/assets/3488880e08a0f82ccdb3dfdc68791182b5919310.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "money"
+      },
+      {
+        "title": "Improved service delivery",
+        "body": "<p>Making detailed open data available is essential to improving&nbsp;service delivery&nbsp;for businesses and individuals.</p><p>The <a href=\"https://defradigital.blog.gov.uk/2016/04/21/environment-agency-going-above-and-beyond/\">Environment Agency</a> released 1,500 datasets, driven by its&nbsp;initiative&nbsp;#opendefra.</p><p>As part of this, the open&nbsp;<a href=\"https://environmentagency.blog.gov.uk/2015/09/18/laser-surveys-light-up-open-data/\">LIDAR</a>&nbsp;(Light Detection and Ranging) data has helped&nbsp;<a href=\"http://surreydigitalservices.github.io/blog/2016/03/QGIS-Rooftop-Aspect-Analysis\">optimise&nbsp;rooftop solar-cell installation</a>. Open flood data made it possible for&nbsp;<a href=\"http://www.redcross.org.uk/What-we-do/Emergency-response/Emergency-app\">The Red Cross</a>&nbsp;to build an app combining it with&nbsp;Met Office weather warnings to issue real-time alerts.</p><p>In the transport sector, Transport for London, released their travel data and enabled developers to provide consumer-friendly services, helping&nbsp;customers to <a href=\"https://www.google.co.uk/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=10&amp;ved=0ahUKEwiBjIzA_ZTSAhUB7hoKHaGXD5QQFghSMAk&amp;url=http%3A%2F%2Fresearchbriefings.files.parliament.uk%2Fdocuments%2FPOST-PN-472%2FPOST-PN-472.pdf&amp;usg=AFQjCNG8RkGO-SLEc2Fgg_KR-Hezh80h0Q&amp;cad=rja\">save an estimated &pound;58m worth&nbsp;of saved time per year</a>&nbsp;(pdf).</p>",
+        "_graphic": {
+          "src": "course/en/assets/c0eca1e9dde2d00c75333a3690c8ba35d98c1d3c.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/colored-paper-pointers-signs-navigation-mapvector-154597898\" target=\"_blank\">Leone_V</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "services"
+      },
+      {
+        "title": "Efficiency savings",
+        "body": "<p>By releasing open data on its public transport, the city of San Francisco has reduced its number of incoming telephone queries by around 22%, which has <a href=\"http://www.resetsanfrancisco.org/better-government/opendata-and-real-time-information-saves-san-francisco-over-1-million/\">generated annual savings of more than $1m</a>.</p><p>The startup Prescribing Analytics &ndash; a joint venture between NHS doctors and technologists &ndash; used open data to identify a <a href=\"https://theodi.org/news/prescription-savings-worth-millions-identified-odi-incubated-company\">&pound;200m per year saving</a> for the NHS if they were to switch to own-brand statins and utilise more efficient delivery routes.</p>",
+        "_graphic": {
+          "src": "course/en/assets/a504270596bccd50c7606befecc8b926320b60a8.png",
+          "alt": "",
+          "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "plan"
+      }
+    ]
+  },
+  {
+    "_id": "584928ca4d7b7e82691e4bf7",
+    "_layout": "right",
+    "_parentId": "584928ca4d7b7e82691e4bd8",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-nine",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/34825f6bf6f9b89bc11be4a226a05985050c81ee.png",
+      "small": "course/en/assets/34825f6bf6f9b89bc11be4a226a05985050c81ee.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty - Freepik.com </a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "584928ca4d7b7e82691e4c0c",
+    "_layout": "left",
+    "_parentId": "584928ca4d7b7e82691e4bdb",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
+      "small": "course/en/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/large-group-people-shape-chat-bubblewhite-234353791\" target=\"_blank\">tai11</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58493b124d7b7e82691e4dce",
+    "_layout": "left",
+    "_parentId": "58493b084d7b7e82691e4dcd",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-nine",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/34825f6bf6f9b89bc11be4a226a05985050c81ee.png",
+      "small": "course/en/assets/34825f6bf6f9b89bc11be4a226a05985050c81ee.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty - Freepik.com </a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "58493b374d7b7e82691e4dd2",
+    "_layout": "right",
+    "_parentId": "58493b274d7b7e82691e4dd0",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
+      "small": "course/en/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/large-group-people-shape-chat-bubblewhite-234353791\" target=\"_blank\">tai11</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "584928cf4d7b7e82691e4ce2",
+    "_layout": "left",
+    "_parentId": "584928ce4d7b7e82691e4c37",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "white",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
+      "small": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\"> Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4c9b",
+    "_layout": "right",
+    "_parentId": "584928ce4d7b7e82691e4c31",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "   ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-six",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6ff8a4063ef1ee22d903a5db21adb55e9b0549ac.png",
+      "small": "course/en/assets/6ff8a4063ef1ee22d903a5db21adb55e9b0549ac.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty - Freepik.com </a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4c8f",
+    "_layout": "right",
+    "_parentId": "584928ce4d7b7e82691e4c30",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "white",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
+      "small": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\"> Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4c84",
+    "_layout": "left",
+    "_parentId": "584928ce4d7b7e82691e4c2f",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "What types of data are opportunity data?",
+    "title": "What types of data are opportunity data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-three",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6ff8a4063ef1ee22d903a5db21adb55e9b0549ac.png",
+      "small": "course/en/assets/6ff8a4063ef1ee22d903a5db21adb55e9b0549ac.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty - Freepik.com </a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4c78",
+    "_layout": "right",
+    "_parentId": "584928ce4d7b7e82691e4c2e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "white",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/acf5fafa193ef4bb8815fd24cea76dc89bd93701.png",
+      "small": "course/en/assets/acf5fafa193ef4bb8815fd24cea76dc89bd93701.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty - Freepik.com </a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "584928f24d7b7e82691e4d4a",
+    "_layout": "left",
+    "_parentId": "584928f24d7b7e82691e4cf8",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-nine",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d553a6fe306f6ca45946370dd8abe4f7372f610e.png",
+      "small": "course/en/assets/d553a6fe306f6ca45946370dd8abe4f7372f610e.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "584928f24d7b7e82691e4d5a",
+    "_layout": "full",
+    "_parentId": "584928f24d7b7e82691e4cf9",
+    "_type": "component",
+    "body": "<p>Data quality is important. But&nbsp;understanding what quality data means&nbsp;to your audience is also important, as we&#39;ve outlined in <a href=\"http://theodi.org/blog/four-things-you-should-know-about-open-data-quality\">this article</a>.</p><p>To help you understand the quality of your data, there are some basic things you should consider. Not all of these are straightforward and some might require you to check with your technical team or your booking system provider. However, answering them will give you a clear picture of whether your data meets quality standards. Browse the categories below to learn about the key questions you need to ask.</p>",
+    "displayTitle": "Where can I get help to make sure my data is good quality?",
+    "title": "Where can I get help to make sure my data is good quality?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "matchblock",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Legal requirements",
+        "body": "<p>Legal requirements</p><p>Open data must be released under an open licence. Find out more about licensing <a href=\"http://accelerate.theodi.org/en/module4/#/id/co-01\">in this module.</a></p><p>In addition to the open licence,&nbsp;there are three legal requirements that need to be considered. You must:</p><ul><li>Protect sensitive information like personal data.</li><li>Preserve the rights of data owners.</li><li>Promote correct use of the data.</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/4c16023cfb73e5b28757444d7d21515c96de1998.png",
+          "alt": "CC License",
+          "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty - Freepik.com </a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Legal"
+      },
+      {
+        "title": "Practical requirements",
+        "body": "<p>It is important that open data can be found and relied upon by users.<br /><br />This means that open data publishers must:</p><ul><li>Link to the data from their website, rather than just publishing information in PDFs.</li><li>Update the data regularly if it changes.</li><li>Commit to continue to make the data openly available.</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/385bfb3f40afe3cafb5e9439bdee83b5537c32ad.png",
+          "alt": "",
+          "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Page"
+      },
+      {
+        "title": "Technical requirements",
+        "body": "<p>There are three recommendations that define the technical aspects of open data:</p><ul><li>The channels through which the data is available.</li><li>The format in which the data is published.</li><li>The structure of the data.</li></ul><p>Putting any sort of data on a website is a good start, as this is the best channel.</p><p>Putting that data out there as text in a PDF is not a very useable format (you can find out more about data formats in <a href=\"http://accelerate.theodi.org/en/module9/#/id/co-01\">this eLearning module</a>).&nbsp;</p><p>Structuring the data inside a&nbsp;spreadsheet (Excel or equivalent) and linking&nbsp;this spreadsheet from&nbsp;the website is better.</p>",
+        "_graphic": {
+          "src": "course/en/assets/7f10fa9ab7f75c941335b3fd99bc178eb880ed7d.png",
+          "alt": "",
+          "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Page"
+      },
+      {
+        "title": "Social requirements",
+        "body": "<p>For data use to be sustainable, it is important to have an engaged community of users. The best datasets have:</p><ul><li>Active support channels.</li><li>Discussion groups and forums.</li><li>Published how-to guides on working with the data.</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/ecc29cb1588c4f76a0bcf5e2f706110c960c328a.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=58591429&src=lb-36497927\" target=\"_blank\">higyou</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "page"
+      }
+    ]
+  },
+  {
+    "_id": "584928f24d7b7e82691e4d75",
+    "_layout": "left",
+    "_parentId": "584928f24d7b7e82691e4cfc",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "white",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f36385e52b7136dbc69376e83cc9ed1269ff798e.png",
+      "small": "course/en/assets/f36385e52b7136dbc69376e83cc9ed1269ff798e.png",
+      "attribution": "<a href=\"https://pixabay.com/en/award-ribbon-rosette-blue-161090/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "584928f24d7b7e82691e4d2a",
+    "_layout": "right",
+    "_parentId": "584928f24d7b7e82691e4cf6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-nine",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d553a6fe306f6ca45946370dd8abe4f7372f610e.png",
+      "small": "course/en/assets/d553a6fe306f6ca45946370dd8abe4f7372f610e.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "584928f24d7b7e82691e4d00",
+    "_layout": "left",
+    "_parentId": "584928f24d7b7e82691e4cf4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-ten",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ef6c8121b41c85410905208e9319bfd4b58d7224.png",
+      "small": "course/en/assets/ef6c8121b41c85410905208e9319bfd4b58d7224.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty - Freepik.com </a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "584928f24d7b7e82691e4d16",
+    "_layout": "right",
+    "_parentId": "584928f24d7b7e82691e4cf5",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f36385e52b7136dbc69376e83cc9ed1269ff798e.png",
+      "small": "course/en/assets/f36385e52b7136dbc69376e83cc9ed1269ff798e.png",
+      "attribution": "<a href=\"https://pixabay.com/en/award-ribbon-rosette-blue-161090/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "594a4e5ad084d5167a04ffc7",
+    "_layout": "left",
+    "_parentId": "594a4e5ad084d5167a04ffbb",
+    "_type": "component",
+    "body": "<p>&#39;How will open data affect my business?&#39; is a common question that arises when the subject of open data is brought up.</p><p>In this module we look at&nbsp;the&nbsp;impact an open future will have on businesses within the physical activity sector.</p><p>This module looks at the following:</p><ul><li>The value of an open ecosystem</li><li>The value of open for&nbsp;businesses</li><li>The open ecosystem in action</li><li>Taking action</li><li>The future</li></ul>",
+    "displayTitle": "Business in an open data led physical activity sector",
+    "title": "Business in an open data led physical activity sector",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "594a4e5ad084d5167a04ffc8",
+    "_layout": "right",
+    "_parentId": "594a4e5ad084d5167a04ffbb",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4c0911bdfd84f6e6252c2115514a4d5653661c75.png",
+      "small": "course/en/assets/4c0911bdfd84f6e6252c2115514a4d5653661c75.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "594a4e5bd084d5167a05001d",
+    "_layout": "full",
+    "_parentId": "594a4e5ad084d5167a04ffbd",
+    "_type": "component",
+    "body": "<p>The key point tipping point of businesses in the activity space comes where opening up data is more beneficial than keeping it closed. The value comes from the service provided, not from the transaction of data. Examine these how this change to a service model affects revenue, costs and brand below.</p>",
+    "displayTitle": "The value of open to businesses",
+    "title": "The value of open to businesses",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Increased revenue",
+        "body": "<p>With greater access to data, organisations are able&nbsp;to increase their revenue in different ways.</p><p><strong>Activity providers can: </strong></p><ul><li>Reach greater numbers and types of customers via new and existing channels.</li><li>Fill quiet times through different ways of promotion.</li></ul><p><strong>Service providers can:</strong></p><ul><li>Explore opportunities for innovation that were previously difficult&nbsp;due to a lack of access to data.</li><li>Gain first mover advantage and access to new martlets without&nbsp;needing commercial agreements.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/677d7326397675056792ef0a6e45ff881c10f712.jpg",
+          "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "_classes": "accordion-plus-graphic"
+      },
+      {
+        "title": "Reduced costs",
+        "body": "<p>Providing greater freedom around the access and usage of data will help to reduce costs over the longer term.</p><p><strong>Activity providers can: </strong></p><ul><li>Remove the burden of managing&nbsp;individual data sharing agreements.</li><li>Reduce the costs of having to create tools and products on top of data&nbsp;&ndash; share the load with external innovators for mutual benefits.</li><li>Simplify data management and sharing through access to a greater number of third party options.</li></ul><p><strong>Service providers can:</strong></p><ul><li>Access data directly without having to negotiate individually.</li><li>Ensure the consistency of open data thanks to&nbsp;common standards.</li><li>Explore greater opportunities for data re-use and sales in&nbsp;new markets.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/3b66beb92878268fd90bf52b67cb10c55f741f17.jpg",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/flat-style-vector-icons-set-mobile-203239417\" target=\"_blank\">Ozerina Anna</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "_classes": "accordion-plus-graphic"
+      },
+      {
+        "title": "Brand and meeting business goals",
+        "body": "<p>In a sector that is more open by default, companies can gain benefits that will help them meet their business goals.</p><p><strong>Service providers can:</strong></p><ul><li>Build new partnerships.</li><li>Improve the perception and awareness of brands.</li><li>Open up more opportunities for consumption of physical activities</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/bd1ebba8ea6091a57a538983563e09a940820ca3.jpg",
+          "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Creativeart / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "_classes": "accordion-plus-graphic"
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "594a4e5bd084d5167a050065",
+    "_layout": "right",
+    "_parentId": "594a4e5ad084d5167a04ffc0",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "594a4e5bd084d5167a05006b",
+    "_layout": "right",
+    "_parentId": "594a4e5ad084d5167a04ffc1",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7df06e99d95bb53302e243fb7dabb6b5006c63c8.jpg",
+      "small": "course/en/assets/7df06e99d95bb53302e243fb7dabb6b5006c63c8.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/aigle_dore/5849712695\" target=\"_blank\">Moyan Brenn</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "594a4e5bd084d5167a05006e",
+    "_layout": "right",
+    "_parentId": "594a4e5ad084d5167a04ffc2",
+    "_type": "component",
+    "body": "<p><strong>Where is the value in an open ecosystem?</strong></p>",
+    "displayTitle": "Where is the value in an open ecosystem?",
+    "title": "Q: Where is the value in an open ecosystem?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select 3 options and press 'submit'",
+    "_items": [
+      {
+        "text": "Increased revenue",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Reduce costs and increase efficiency",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Enhance reputation",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Help one organisation monopolise the market",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Increases access to personal data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!&nbsp;</strong></p><p>An open ecosystem can help increase revenue, reduce costs and drive efficiency and enhance reputation.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>An open ecosystem can help increase revenue, reduce costs and drive efficiency and enhance reputation.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "594a4e5bd084d5167a05006f",
+    "_layout": "left",
+    "_parentId": "594a4e5ad084d5167a04ffc2",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c7850d3836e8a13fa424055620bd1086f97235ea.jpg",
+      "small": "course/en/assets/c7850d3836e8a13fa424055620bd1086f97235ea.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "594a4e5bd084d5167a050072",
+    "_layout": "left",
+    "_parentId": "594a4e5ad084d5167a04ffc3",
+    "_type": "component",
+    "body": "<p><strong>What should activity providers look to do in order to take advantage of an open ecosystem?</strong></p>",
+    "displayTitle": "Taking action - Activity providers",
+    "title": "Q: Taking action - Activity providers",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select your answer and click 'submit'",
+    "_items": [
+      {
+        "text": "Establish exclusivity agreements with service providers for use of opportunity data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Sell opportunity data to others",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Procure services that maintain or publish open data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!&nbsp;</strong></p><p>Data users and platform providers help&nbsp;connect&nbsp;activity providers to consumers through the management and usage of data. Thus their key role is to create services for consumers and activity providers.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Data users and platform providers help&nbsp;connect&nbsp;activity providers to consumers through the management and usage of data. Thus their key role is to create services for consumers and activity providers.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "594a4e5bd084d5167a050076",
+    "_layout": "left",
+    "_parentId": "594a4e5ad084d5167a04ffc4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4a7e49fc194729d0be456b82da1400f44d6d6a62.jpg",
+      "small": "course/en/assets/4a7e49fc194729d0be456b82da1400f44d6d6a62.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/pdbreen/3363030321\" target=\"_blank\">Patrick</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "594a4e5bd084d5167a050079",
+    "_layout": "right",
+    "_parentId": "594a4e5ad084d5167a04ffc4",
+    "_type": "component",
+    "body": "<p><strong>What should activity providers look to do in order to take advantage of an open ecosystem?</strong></p>",
+    "displayTitle": "Taking action - Service providers",
+    "title": "Q: Taking action - Service providers",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select your answer and click 'submit'",
+    "_items": [
+      {
+        "text": "Support the openactive.io standards and publish open data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Create new open data standards",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Scrape sports data from the web",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Service providers should support the openactive.io standards for your data and help activity providers promote their opportunities via open data.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Service providers should support the openactive.io standards for your data and help activity providers promote their opportunities via open data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "594a4e5bd084d5167a05007a",
+    "_layout": "right",
+    "_parentId": "594a4e5ad084d5167a04ffc5",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4c0911bdfd84f6e6252c2115514a4d5653661c75.png",
+      "small": "course/en/assets/4c0911bdfd84f6e6252c2115514a4d5653661c75.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "594a4e5bd084d5167a05007d",
+    "_layout": "left",
+    "_parentId": "594a4e5ad084d5167a04ffc5",
+    "_type": "component",
+    "body": "<p>For consumers, an open ecosystem is a clear route that enables easier access to a wider range of opportunities to get active.</p><p>The transport sector has proven that an open ecosystem can work to the benefit of all parties.&nbsp;</p><p>Opening up key data encourages competition and innovation by service providers who in turn now have access to large amounts of previously unavailable data.</p><p>What will you do next?</p><p><a class=\"button\" href=\"#/id/58d17f03d084d5167a04ba01\">Previous module</a> <a class=\"button\" href=\"#/\">Main menu</a></p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "594a4e5bd084d5167a05007e",
+    "_layout": "full",
+    "_parentId": "594a4e5ad084d5167a04ffc6",
+    "_type": "component",
+    "body": "<p>You&#39;ve come to the end of this eLearning module, but it&#39;s not the end of your open data journey.</p><p>Got some data you want to publish?&nbsp;&nbsp;<a href=\"https://www.openactive.io/join.html\"><strong>Get in touch</strong></a></p><p>Interested in shaping the open data standards for the physical activity sector?&nbsp;<strong>Join the <a href=\"https://www.w3.org/community/openactive/\">W3C community group</a></strong></p><p>Want to learn more?<strong> <a href=\"https://www.openactive.io/learn.html\">Take a look</a></strong>&nbsp;at what&#39;s out there for you&nbsp;to learn.</p>",
+    "displayTitle": "Continuing your open data journey",
+    "title": "Continuing your open data journey",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "594b965bd084d5167a050089",
+    "_layout": "left",
+    "_parentId": "594b964dd084d5167a050088",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Playwaze is a service provider that wants to replace club noticeboards with a mobile app that connects communities to more people. However a mobile app still has boundaries, so Playwaze has embraced open data by <a href=\"http://data.playwaze.com/\">publishing their course and sessions data as open data</a> for everyone to use.</p><p dir=\"ltr\">Playwaze is a service provider for Parkour UK and manages its membership and registration scheme. Parkour UK member organisations and groups can create communities, courses, sessions, classes, events, jams and more. These are automatically published straight to Parkour UK&rsquo;s website and any others using the OpenActive open data feed giving them increased exposure to new participants.</p><p dir=\"ltr\">Parkour UK have selected Playwaze as their provider to provide an effective and open service to reach as many consumers as possible.</p>",
+    "displayTitle": "Open ecosystem in action - Playwaze",
+    "title": "Open ecosystem in action - Playwaze",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "594b9686d084d5167a05008c",
+    "_layout": "right",
+    "_parentId": "594b9675d084d5167a05008b",
+    "_type": "component",
+    "body": "<p>Explore what is required of activity providers, what they gain and what to look out for below.</p>",
+    "displayTitle": "Taking action - Activity providers",
+    "title": "Taking action - Activity providers",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "What to do",
+        "body": "<p>The primary action for activity providers will be to require or procure services that maintain or publish open data. Look out for opportunities that allow the integration of your opportunity data with as many appropriate channels as possible.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "What you gain",
+        "body": "<p>As with Transport for London (TfL), open data has driven innovation which has allowed an ecosystem of services and applications to emerge naturally. User needs have been fulfilled without any involvement of the data owner. Increase participation in activities with no expenditure, open data is the route to go here.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "What to look out for",
+        "body": "<p>Long and restrictive contracts and with service providers. Just like consumers you should have the right to choose those that are suitable for your business. Keep an eye on the <a href=\"http://openactive.io\" target=\"_blank\">OpenActive&nbsp;website</a> for the latest information on suppliers and support for open data.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "594b974dd084d5167a05008f",
+    "_layout": "left",
+    "_parentId": "594b9725d084d5167a05008e",
+    "_type": "component",
+    "body": "<p>Explore what actions service providers can take in order to maximise gain in an open ecosystem.</p>",
+    "displayTitle": "Taking action - Service providers",
+    "title": "Taking action - Service providers",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "What to do",
+        "body": "<p>Support the openactive.io standards for your data and help activity providers promote their opportunities via open data. Encourage activity providers to use your service to get their opportunity data out there. Develop your USP in the sector using open data to open new markets and locations.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "What you gain",
+        "body": "<p>Interoperability with everyone also publishing data conforming to the standard. This enables the easier use of this data to help you open up new markets without the need for complex commercial agreements.</p><p>It also helps you compete with others to grow your business to be the provider of choice. If activity providers increase turnover as a result of more people engaging in activities it is likely they will need more services for these people. Everyone wins.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "What to look out for",
+        "body": "<p>Other service providers releasing open data that could add value to your own services. &nbsp;</p><p>Keep an eye on the openactive.io website for the latest information on suppliers and support for open data. &nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "594b9aa6d084d5167a050093",
+    "_layout": "right",
+    "_parentId": "594b9a95d084d5167a050091",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">What will the future bring for open opportunity data. Once again we can look to other sectors for the answer to this. In the consumer entertainment sector, websites like <a href=\"https://api.odeon.co.uk\">ODEON</a> provide an open API that gives developers access to film times. Integration with Apple and Google products allows you to book tickets for movie screenings from your watch. Companies like citymapper provide unrivaled access to advanced transport data for cities that have open data. Open table, provides an API for restaurant table bookings.</p><p dir=\"ltr\">With companies like Apple building physical activity into the core of their products and now encouraging gym equipment providers to give consumers <a href=\"http://uk.businessinsider.com/apple-watch-gymkit-watchos-4-2017-6?r=US&amp;IR=T\">direct access to workout data</a>, the future of opportunity data seems a clear one. Open data will enable the integration with key platforms such that one day soon you will be able to book an activity with you favorite voice activated service. OK Google, tell Siri to ask Alexa to book me a badminton court tonight at 7pm.</p><p dir=\"ltr\">Don&rsquo;t chose one option, open data and choose them all.</p>",
+    "displayTitle": "Looking to the future",
+    "title": "Looking to the future",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "594b9bf3d084d5167a050096",
+    "_layout": "full",
+    "_parentId": "594b9be2d084d5167a050095",
+    "_type": "component",
+    "body": "<p>Open data provides opportunity for much wider collaboration in the sector in order to get more people involved in physical activity. Explore how an open ecosystem can be built on which everyone can operate a service by exploring the parallels to transport below.</p>",
+    "displayTitle": "The value of an open ecosystem",
+    "title": "The value of an open ecosystem",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "Data as roads",
+        "body": "<p>Much like roads help us get to a location, open activity data can help us engage in sport.</p><p>But not everyone uses one road to get to a location, and not everyone uses the roads in the same way.&nbsp;</p><p>Some people will walk, some will drive and some take the bus. People have a choice of services which all use the same infrastructure, the road.</p>",
+        "_graphic": {
+          "src": "course/en/assets/af22d29e3b0d0fcab8e38ee0d0c61b2c8a0ade54.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/aigle_dore/5849712695\" target=\"_blank\">Moyan Brenn</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Data as roads"
+      },
+      {
+        "title": "Infinite services on open data roads",
+        "body": "<p>Unlike roads, open data can be used by everyone at the same time. Data is infinite, meaning that multiple use doesn&#39;t degrade the service for others.</p><p>Unlike roads,&nbsp;which only support certain types of service provider (you can&#39;t run a train, boat or&nbsp;tram on a road), open data can be used for a&nbsp;variety of imaginative purposes.&nbsp;</p><p>A key example of this is Transport for London (TFL) whose open data is <a href=\"https://blog.tfl.gov.uk/2017/04/07/the-tfl-tech-forum-is-live/\" target=\"_blank\">now used by over 600 travel applications</a> that give everyone, regardless of nationality (language), disability or technical capability access to the right information at the right time. This means that more people can use the services TfL provide, or use the data to <a href=\"http://wearemudlark.com/projects/chromaroma/\" target=\"_blank\">play games</a>.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/d1515088c0ab7db985d357d45a6b307a92fb58cd.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/alper/10482805973\" target=\"_blank\">Alper Çuğun</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Infinite services on open data roads"
+      },
+      {
+        "title": "The role of service providers",
+        "body": "<p>Service providers&nbsp;give consumers choice. Just like with roads, some people will chose the bus, or to hire a bike.</p><p>Service providers&nbsp;play a key role in reaching different audiences and providing value added services built on top of not just their own, but others open data.</p><p>Like with the apps which consume the TfL open data, a competitive market will emerge, however there are also a huge amount of Unique Selling Points (USP) for each solution which means that each coexists successfully while still consuming the same source data.</p>",
+        "_graphic": {
+          "src": "course/en/assets/f15b36a3fb6a0dbc3a9936c8a1631cbdd3feac43.png",
+          "alt": "",
+          "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "The role of service providers"
+      },
+      {
+        "title": "The role of activity providers",
+        "body": "<p>Activity providers, like TfL, are the winners in this situation.</p><p>Being able to maximise the use of their data unlocks opportunities for everyone to engage with their activities.</p><p>Activity providers should help ensure everyone is able to use their roads (open data)&nbsp;and build services.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/168853c0a47147e13d2dc80a40342372a4a63874.png",
+          "alt": "",
+          "attribution": "<a href=\"http://www.openstreetmap.org/#map=19/-6.80164/39.25077\" target=\"_blank\">Open Street Map contributors</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "The role of activity providers"
+      }
+    ]
+  },
+  {
+    "_id": "594b965ed084d5167a05008a",
+    "_layout": "right",
+    "_parentId": "594b964dd084d5167a050088",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e6db9e14bbf2b0dd8598b4a75c96d729b95105db.jpg",
+      "small": "course/en/assets/e6db9e14bbf2b0dd8598b4a75c96d729b95105db.jpg",
+      "attribution": "<a href=\"http://www.freepik.com/index.php?goto=74&idfoto=1052391&term=runner\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "594b9aacd084d5167a050094",
+    "_layout": "left",
+    "_parentId": "594b9a95d084d5167a050091",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/392dee5ba8c1cceba7bd5a3089ab39b617add572.jpg",
+      "small": "course/en/assets/392dee5ba8c1cceba7bd5a3089ab39b617add572.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/pestoverde/28956975733\" target=\"_blank\">Maurizio Pesce</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "594d430bd084d5167a0500d0",
+    "_layout": "left",
+    "_parentId": "594a4e5ad084d5167a04ffc1",
+    "_type": "component",
+    "body": "<p><strong>In an open ecosystem data can be...</strong></p>",
+    "displayTitle": "The value of an open ecosystem",
+    "title": "Q: The value of an open ecosystem",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select your answer and then click 'submit'",
+    "_items": [
+      {
+        "text": "used by everyone to create new services.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "locked away by commercial contracts",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "edited and deleted by anyone",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!&nbsp;</strong></p><p>Open data is like roads which anyone can use and build new services on.&nbsp;Unlike roads,&nbsp;which only support certain types of service provider (you can&#39;t run a train, boat or&nbsp;tram on a road), open data can be used for a&nbsp;variety of imaginative purposes.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are&nbsp;you sure about that?</strong></p><p>Open data is like roads which anyone can use and build new services on.&nbsp;Unlike roads,&nbsp;which only support certain types of service provider (you can&#39;t run a train, boat or&nbsp;tram on a road), open data can be used for a&nbsp;variety of imaginative purposes.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "594b968ad084d5167a05008d",
+    "_layout": "left",
+    "_parentId": "594b9675d084d5167a05008b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/09082c6def661df58aaab31ca882bd81f2ea3463.jpg",
+      "small": "course/en/assets/09082c6def661df58aaab31ca882bd81f2ea3463.jpg",
+      "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Australian_swimmer_diving_off_starting_blocks.jpg\" target=\"_blank\">Australian Paralympic Committee</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "594b974fd084d5167a050090",
+    "_layout": "right",
+    "_parentId": "594b9725d084d5167a05008e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4a7e49fc194729d0be456b82da1400f44d6d6a62.jpg",
+      "small": "course/en/assets/4a7e49fc194729d0be456b82da1400f44d6d6a62.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/pdbreen/3363030321\" target=\"_blank\">Patrick</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "594a4e5bd084d5167a050073",
+    "_layout": "right",
+    "_parentId": "594a4e5ad084d5167a04ffc3",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/09082c6def661df58aaab31ca882bd81f2ea3463.jpg",
+      "small": "course/en/assets/09082c6def661df58aaab31ca882bd81f2ea3463.jpg",
+      "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Australian_swimmer_diving_off_starting_blocks.jpg\" target=\"_blank\">Australian Paralympic Committee</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
   }
 ]
