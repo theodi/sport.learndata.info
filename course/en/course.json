@@ -1,8 +1,42 @@
 {
+  "title": "Physical Activity Open Data Course",
+  "displayTitle": "Physical Activity Open Data Course",
+  "body": "",
+  "description": "",
+  "_latestTrackingId": 67,
+  "_buttons": {
+    "disabledAriaLabel": "This button is disabled at the moment",
+    "remainingAttemptText": "final attempt",
+    "remainingAttemptsText": "remaining attempts",
+    "_showFeedback": {
+      "ariaLabel": "Show feedback",
+      "buttonText": "Show feedback"
+    },
+    "_hideCorrectAnswer": {
+      "ariaLabel": "Hide correct answer",
+      "buttonText": "Hide correct answer"
+    },
+    "_showCorrectAnswer": {
+      "ariaLabel": "Show correct answer",
+      "buttonText": "Show correct answer"
+    },
+    "_reset": {
+      "ariaLabel": "Reset",
+      "buttonText": "Reset"
+    },
+    "_submit": {
+      "ariaLabel": "Submit",
+      "buttonText": "Submit"
+    }
+  },
+  "_classes": "",
+  "_lockType": "",
+  "_id": "course",
   "_globals": {
     "_accessibility": {
       "accessibilityToggleTextOn": "Turn accessibility on?",
       "accessibilityToggleTextOff": "Turn accessibility off?",
+      "skipNavigationText": "Skip navigation",
       "_accessibilityInstructions": {
         "touch": "Usage instructions. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page.",
         "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
@@ -10,17 +44,12 @@
       },
       "_ariaLabels": {
         "navigation": "Course navigation bar",
+        "skipNavigation": "Skip Navigation",
         "menuLoaded": "Menu loaded",
-        "menu": "Menu",
-        "menuItem": "Menu item",
-        "menuViewButton": "Select here to enter",
         "page": "Page",
         "pageLoaded": "Page loaded",
         "previous": "Back",
-        "navigationBack": "Navigate back",
         "navigationDrawer": "Open course resources and search",
-        "closeResources": "Close resources",
-        "drawerBack": "Back to drawer",
         "drawer": "Side drawer",
         "closePopup": "Close popup",
         "next": "Next",
@@ -28,39 +57,93 @@
         "complete": "Complete",
         "incomplete": "Incomplete",
         "correct": "Correct",
+        "incorrect": "Incorrect",
         "locked": "Locked",
         "accessibilityToggleButton": "By selecting this button you can set whether accessibility is turned on or off",
         "feedbackPopUp": "Popup opened",
         "visited": "Visited",
-        "menuBack": "Back to menu",
         "menuIndicatorHeading": "Menu item heading "
       }
     },
     "_components": {
-      "_media": {
-        "transcriptButton": "Alternatively you can select the link below for the transcript.",
-        "ariaRegion": "This is a media component which plays a video. Select the play / pause button to watch or listen."
-      },
-      "_accordion": {
-        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
-      },
       "_graphic": {
         "ariaRegion": ""
-      },
-      "_mcq": {
-        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
       },
       "_text": {
         "ariaRegion": ""
       },
+      "_hotgraphic": {
+        "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
+        "ariaPopupLabel": "Hotgraphic popup"
+      },
+      "_accordion": {
+        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+      },
+      "_mcq": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+      },
+      "_jsonschema": {
+        "ariaRegion": "This question requires you to input your answer in the codebox provided. When you have done so, select the submit button below."
+      },
+      "_dragndrop": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+      },
+      "_notify-imagegrid": {
+        "ariaRegion": "This component contains images laid out in a flexible grid."
+      },
+      "_slider": {
+        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
+      },
       "_narrative": {
         "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
       },
+      "_media": {
+        "ariaRegion": "This is a media component which plays a video. Select the play / pause button to watch or listen.",
+        "transcriptButton": "Alternatively you can select the link below for the transcript."
+      },
+      "_media-autoplay": {
+        "ariaRegion": "This is a media player component. Select the play / pause button to watch or listen.",
+        "transcriptButton": "Alternatively you can select the link below for the transcript.",
+        "ariaTranscriptLabel": "Transcript",
+        "ariaCaptionsLabel": "Subtitles"
+      },
       "_matching": {
         "ariaRegion": "This question component requires you to select the matching answer from a drop down list below. When you have selected your answers select the submit button."
+      },
+      "_textinput": {
+        "ariaRegion": "Text input. Type your answer and then submit."
+      },
+      "_gmcq": {
+        "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below."
       }
     },
     "_extensions": {
+      "_skillsFramework": {
+        "linkText": "Outcomes",
+        "titleText": "Learning outcomes"
+      },
+      "_aboutPage": {
+        "linkText": "About",
+        "titleText": "About",
+        "contactEMail": "training@theodi.org",
+        "contactLinkText": "Contact",
+        "aboutCredit": "",
+        "SL_text": "<p>Developed for OpenActive by the <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a></p>",
+        "SL_facebook": "",
+        "SL_flickr": "",
+        "SL_github": "",
+        "SL_scribd": "",
+        "SL_soundcloud": "",
+        "SL_twitter": "",
+        "SL_vimeo": "",
+        "SL_youtube": ""
+      },
+      "_ODILicence": {
+        "linkText": "Licence",
+        "titleText": "Licence"
+      },
       "_pageLevelProgress": {
         "pageLevelProgress": "Page sections",
         "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
@@ -70,45 +153,114 @@
       }
     }
   },
-  "_id": "course",
   "_start": {
-    "_isEnabled": false,
-    "_startIds": [],
+    "_isMenuDisabled": false,
     "_force": false,
-    "_isMenuDisabled": false
+    "_startIds": [],
+    "_isEnabled": false
   },
   "_type": "course",
-  "_lockType": "",
-  "_classes": "",
-  "_buttons": {
-    "_submit": {
-      "buttonText": "Submit",
-      "ariaLabel": "Submit"
-    },
-    "_reset": {
-      "buttonText": "Reset",
-      "ariaLabel": "Reset"
-    },
-    "_showCorrectAnswer": {
-      "buttonText": "Show correct answer",
-      "ariaLabel": "Show correct answer"
-    },
-    "_hideCorrectAnswer": {
-      "buttonText": "Hide correct answer",
-      "ariaLabel": "Hide correct answer"
-    },
-    "_showFeedback": {
-      "buttonText": "Show feedback",
-      "ariaLabel": "Show feedback"
-    },
-    "remainingAttemptsText": "remaining attempts",
-    "remainingAttemptText": "final attempt",
-    "disabledAriaLabel": "This button is disabled at the moment"
+  "_aboutPage": {
+    "_items": [
+      {
+        "_graphic": {
+          "src": "adapt/css/assets/logo-small.png",
+          "alt": ""
+        },
+        "description": "<p>Expert knowledge and content development provided by the&nbsp;Open Data Institute.</p>",
+        "title": "The Open Data Institute"
+      },
+      {
+        "_graphic": {
+          "src": "adapt/css/assets/adapt.png",
+          "alt": ""
+        },
+        "description": "<p>Open source learning platform developed by&nbsp;Adapt elearning.</p>",
+        "title": "Adapt eLearning"
+      },
+      {
+        "_graphic": {
+          "src": "adapt/css/assets/se-logo.png",
+          "alt": ""
+        },
+        "description": "<p>Our vision is to get more people active across England &ndash; regardless of age, background or ability. Sport England.</p>",
+        "title": "Sport England"
+      },
+      {
+        "_graphic": {
+          "src": "adapt/css/assets/openactive-badge-large-white.png",
+          "alt": ""
+        },
+        "description": "<p>OpenActive is an ambitious, community-led initiative for change across the sport and physical activity sector, which promotes the use of opportunity data to help people get active (coordinated by the ODI).</p>",
+        "title": "OpenActive"
+      }
+    ]
   },
-  "_latestTrackingId": 79,
-  "body": "",
-  "displayTitle": "Physical Activity Open Data Course",
-  "title": "Physical Activity Open Data Course",
+  "_ODILicence": {
+    "_items": [
+      {
+        "_graphic": {
+          "src": "https://licensebuttons.net/l/by-sa/4.0/88x31.png",
+          "alt": ""
+        },
+        "description": "<p>Physical Activity Open Data Course eLearning by Open Data Institute is licensed under a Creative Commons Attribution-ShareAlike 4.0 International Licence</p>",
+        "title": ""
+      },
+      {
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        },
+        "description": "<p>The content, including text and structure is available for you to&nbsp;<em>use</em>,&nbsp;<em>reuse</em>&nbsp;and&nbsp;<em>share</em>&nbsp;(including for commercial purposes) subject to the conditions of the licence above.</p>",
+        "title": "Content usage"
+      },
+      {
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        },
+        "description": "<p>This licence does not cover:</p><ul><li>Logos and trade marks belonging to the Open Data Institute</li><li>Third party content (such as images)</li><li>Any other content as outlined under &#39;About&#39;</li></ul>",
+        "title": "Exclusions"
+      },
+      {
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        },
+        "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
+        "title": "Non-endorsement"
+      },
+      {
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        },
+        "description": "<p>The Information is licensed &#39;as is&#39;. The Open Data Institute is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
+        "title": "No warranty"
+      }
+    ]
+  },
+  "_trackingHub": {
+    "saveTitle": "Save your progress, resume anytime...",
+    "saveBody": "<p>Please enter your&nbsp;email&nbsp;address in the box below. You will receive an email linking to your unique profile so you can save your progress and resume your learning on any device.</p>",
+    "fields": [
+      {
+        "required": true,
+        "placeholder": "Email address",
+        "type": "email",
+        "title": "email",
+        "id": "email"
+      }
+    ]
+  },
+  "_FooterLink": {
+    "_items": [
+      {
+        "title": "Privacy policy",
+        "link": "https://www.openactive.io/privacy-policy/"
+      }
+    ]
+  },
   "_pageLevelProgress": {
     "_isEnabled": true,
     "_showPageCompletion": true
